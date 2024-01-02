@@ -23,8 +23,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="DataService\Repositories\Interfaces\" />
-    <Folder Include="Entities\Dtos\Responses\" />
     <Folder Include="Entities\Dtos\Requests\" />
     <Folder Include="MappingProfiles\" />
   </ItemGroup>
